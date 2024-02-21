@@ -1,0 +1,8 @@
+source;share/spatial3r_manipulator/hook/cmake_prefix_path.ps1
+source;share/spatial3r_manipulator/hook/cmake_prefix_path.dsv
+source;share/spatial3r_manipulator/hook/cmake_prefix_path.sh
+source;share/spatial3r_manipulator/local_setup.bash
+source;share/spatial3r_manipulator/local_setup.dsv
+source;share/spatial3r_manipulator/local_setup.ps1
+source;share/spatial3r_manipulator/local_setup.sh
+source;share/spatial3r_manipulator/local_setup.zsh

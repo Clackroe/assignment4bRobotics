@@ -1,0 +1,9 @@
+/home/clack/School/Assignment4b/acole_4b/build/spatial3r_manipulator/CMakeFiles/uninstall.dir
+/home/clack/School/Assignment4b/acole_4b/build/spatial3r_manipulator/CMakeFiles/spatial3r_manipulator_uninstall.dir
+/home/clack/School/Assignment4b/acole_4b/build/spatial3r_manipulator/CMakeFiles/test.dir
+/home/clack/School/Assignment4b/acole_4b/build/spatial3r_manipulator/CMakeFiles/edit_cache.dir
+/home/clack/School/Assignment4b/acole_4b/build/spatial3r_manipulator/CMakeFiles/rebuild_cache.dir
+/home/clack/School/Assignment4b/acole_4b/build/spatial3r_manipulator/CMakeFiles/list_install_components.dir
+/home/clack/School/Assignment4b/acole_4b/build/spatial3r_manipulator/CMakeFiles/install.dir
+/home/clack/School/Assignment4b/acole_4b/build/spatial3r_manipulator/CMakeFiles/install/local.dir
+/home/clack/School/Assignment4b/acole_4b/build/spatial3r_manipulator/CMakeFiles/install/strip.dir

@@ -1,0 +1,40 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.7 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+-- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/clack/School/Assignment4b/acole_4b/build/spatial3r_manipulator
+-- Install configuration: ""
+-- Installing: /home/clack/School/Assignment4b/acole_4b/install/spatial3r_manipulator/share/spatial3r_manipulator/launch
+-- Installing: /home/clack/School/Assignment4b/acole_4b/install/spatial3r_manipulator/share/spatial3r_manipulator/launch/display.launch.py
+-- Installing: /home/clack/School/Assignment4b/acole_4b/install/spatial3r_manipulator/share/spatial3r_manipulator/rviz
+-- Installing: /home/clack/School/Assignment4b/acole_4b/install/spatial3r_manipulator/share/spatial3r_manipulator/rviz/display_spatial3r.rviz
+-- Installing: /home/clack/School/Assignment4b/acole_4b/install/spatial3r_manipulator/share/spatial3r_manipulator/urdf
+-- Installing: /home/clack/School/Assignment4b/acole_4b/install/spatial3r_manipulator/share/spatial3r_manipulator/urdf/spatial3r_model.urdf
+-- Installing: /home/clack/School/Assignment4b/acole_4b/install/spatial3r_manipulator/share/ament_index/resource_index/package_run_dependencies/spatial3r_manipulator
+-- Installing: /home/clack/School/Assignment4b/acole_4b/install/spatial3r_manipulator/share/ament_index/resource_index/parent_prefix_path/spatial3r_manipulator
+-- Installing: /home/clack/School/Assignment4b/acole_4b/install/spatial3r_manipulator/share/spatial3r_manipulator/environment/ament_prefix_path.sh
+-- Installing: /home/clack/School/Assignment4b/acole_4b/install/spatial3r_manipulator/share/spatial3r_manipulator/environment/ament_prefix_path.dsv
+-- Installing: /home/clack/School/Assignment4b/acole_4b/install/spatial3r_manipulator/share/spatial3r_manipulator/environment/path.sh
+-- Installing: /home/clack/School/Assignment4b/acole_4b/install/spatial3r_manipulator/share/spatial3r_manipulator/environment/path.dsv
+-- Installing: /home/clack/School/Assignment4b/acole_4b/install/spatial3r_manipulator/share/spatial3r_manipulator/local_setup.bash
+-- Installing: /home/clack/School/Assignment4b/acole_4b/install/spatial3r_manipulator/share/spatial3r_manipulator/local_setup.sh
+-- Installing: /home/clack/School/Assignment4b/acole_4b/install/spatial3r_manipulator/share/spatial3r_manipulator/local_setup.zsh
+-- Installing: /home/clack/School/Assignment4b/acole_4b/install/spatial3r_manipulator/share/spatial3r_manipulator/local_setup.dsv
+-- Installing: /home/clack/School/Assignment4b/acole_4b/install/spatial3r_manipulator/share/spatial3r_manipulator/package.dsv
+-- Installing: /home/clack/School/Assignment4b/acole_4b/install/spatial3r_manipulator/share/ament_index/resource_index/packages/spatial3r_manipulator
+-- Installing: /home/clack/School/Assignment4b/acole_4b/install/spatial3r_manipulator/share/spatial3r_manipulator/cmake/spatial3r_manipulatorConfig.cmake
+-- Installing: /home/clack/School/Assignment4b/acole_4b/install/spatial3r_manipulator/share/spatial3r_manipulator/cmake/spatial3r_manipulatorConfig-version.cmake
+-- Installing: /home/clack/School/Assignment4b/acole_4b/install/spatial3r_manipulator/share/spatial3r_manipulator/package.xml

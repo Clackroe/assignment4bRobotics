@@ -1,0 +1,4 @@
+source;share/spatial3r_manipulator/local_setup.bash
+source;share/spatial3r_manipulator/local_setup.dsv
+source;share/spatial3r_manipulator/local_setup.sh
+source;share/spatial3r_manipulator/local_setup.zsh
